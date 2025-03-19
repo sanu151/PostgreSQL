@@ -1,3 +1,5 @@
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDCKjJrZZquj2yGL9gtZOy9UMvBzbnq4jomtLN-9znGcyCbhZWvxWUVx2GYj8w3PUN8g&usqp=CAU
+
 # PostgreSQL
 PostgreSQL, often simply "Postgres," is a powerful, open-source relational database management system (RDBMS). 
 
@@ -46,3 +48,4 @@ Absolutely! Here's a table covering common PostgreSQL commands, including descri
 * **psql Meta-Commands:** The commands starting with `\` are psql meta-commands, which are specific to the psql command-line tool.
 * **Security:** Be cautious when granting privileges. Always follow the principle of least privilege.
 * **Transactions:** Transactions ensure that a series of database operations are treated as a single unit, either all succeeding or all failing.
+
