@@ -1,4 +1,5 @@
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDCKjJrZZquj2yGL9gtZOy9UMvBzbnq4jomtLN-9znGcyCbhZWvxWUVx2GYj8w3PUN8g&usqp=CAU
+![image](https://github.com/user-attachments/assets/cfff00e0-f8e2-42fe-ae0b-952459ff1c56)
+
 
 # PostgreSQL
 PostgreSQL, often simply "Postgres," is a powerful, open-source relational database management system (RDBMS). 
