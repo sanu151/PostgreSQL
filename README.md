@@ -4,8 +4,6 @@
 # PostgreSQL
 PostgreSQL, often simply "Postgres," is a powerful, open-source relational database management system (RDBMS). 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IYHx0ovvxPs?si=BOjEIdRAoHXXb5vf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 [How to Install PostgreSQL on Windows 11](https://youtu.be/IYHx0ovvxPs?si=ASR50_wKt43n2kcD)
 
 
